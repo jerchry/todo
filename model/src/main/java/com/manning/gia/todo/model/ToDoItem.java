@@ -1,7 +1,6 @@
 package com.manning.gia.todo.model;
 
 public class ToDoItem implements Comparable<ToDoItem> {
-    //Test
     private Long id;
     private String name;
     private boolean completed;
